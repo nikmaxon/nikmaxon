@@ -1,7 +1,7 @@
 <h1 align="center">Python Backend Developer</h1>
 
 ## About Me:
-👋 Hi I'm Maxom. I want to create efficient and scalable web applications.
+👋 Hi I'm Maxim. I want to create efficient and scalable web applications.
 
 💡 I'm focused on crafting quality and clean code, adhering to the principles of DRY (Don't Repeat Yourself) KISS (Keep It Simple, Stupid).
 
