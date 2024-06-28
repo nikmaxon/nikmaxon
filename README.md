@@ -21,7 +21,7 @@
 - Внести вклад в успех компании.
 
 📫 **Cвязаться со мной**: 
- [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ia_stepanov)
+ [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/nikmaxon)
   
 ---
 
@@ -42,9 +42,9 @@
 ---
 
 ### 🔥 Моя статистика:
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ia-stepanov&show_icons=true" height="140px"/> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ia-stepanov&layout=compact" height="140px"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=nikmaxon&show_icons=true" height="140px"/> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nikmaxon&layout=compact" height="140px"/>
 
 ---
 
 <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=ia-stepanov.ia-stepanov) -->
-![visitors](https://komarev.com/ghpvc/?username=ia-stepanov&label=visitors&color=blue)
+![visitors](https://komarev.com/ghpvc/?username=nikmaxon&label=visitors&color=blue)
